@@ -1,0 +1,1 @@
+age educ ses mmse cdr etiv nwbv asf m/f(0/1) 
