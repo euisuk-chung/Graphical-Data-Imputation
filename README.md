@@ -1,2 +1,3 @@
-# PROBABILISTIC GRAPHICAL MODEL AND NETWORK DATA PROJECT
-- Data Imputation Project using Graph Theory
+# PGM PROJECT
+- Course : PROBABILISTIC GRAPHICAL MODEL AND NETWORK DATA
+- Topic : Data Imputation Project using Graph Theory
