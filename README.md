@@ -1,2 +1,2 @@
-# pgm_project
-pgm project - Imputation by Graph Theory
+# PROBABILISTIC GRAPHICAL MODEL AND NETWORK DATA PROJECT
+- Data Imputation Project using Graph Theory
